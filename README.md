@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FirepitSaturday
-- 👀 I’m interested in Data Science and stocks
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Stocks
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science, ML and AI
+- 💞️ I’m looking to collaborate on Data Evaluation Methods, ML and AI
 - 📫 How to reach me Github
 - 😄 Pronouns: Dude
 - ⚡ Fun fact: I love xmas lights
